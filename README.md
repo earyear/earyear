@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A9E2F3&height=250&section=header&text=Gwiyeon's%20Github!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gwiyeon's%20Github!&fontSize=70)
 ### Hi there 👋
 
 <!--
