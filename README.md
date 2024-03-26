@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gwiyeon's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A9E2F3&height=250&section=header&text=Gwiyeon's%20Github!&fontSize=70)
 ### Hi there 👋
 
 <!--
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A9E2F3&height=150&section=header&text=Gwiyeon's Github!" />
